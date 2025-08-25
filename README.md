@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27"/>
 
+My name is Tiffany and I'm a Computer Science and Practice of Art double major at Amherst College.
+
+- 📚 I'm interested in software engineering and the intersection of computer science and design.
+- 👩‍💻 I have full-stack development experience from SWE internahips at Google and from building personal projects.
+- 🔧 Tools/Technologies: ```Java```, ```JavaScript```, ```TypeScript```, ```Python```, ```Swift```, ```HTML```, ```CSS```, ```Bash```
+- 📩 Reach out: [LinkedIn](https://www.linkedin.com/in/tiffanyjxliang/) | tiffanyjxliang@gmail.com
 <!--
 **tifflia/tifflia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
